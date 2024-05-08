@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\StefanaNica\\Documents\\Project\\InvoiceProject\\InvoiceProject\\InvoiceProject\\wwwroot\\add-edit-invoice.html",
+      "PackagePath": "staticwebassets\\add-edit-invoice.html"
+    },
+    {
+      "Id": "C:\\Users\\StefanaNica\\Documents\\Project\\InvoiceProject\\InvoiceProject\\InvoiceProject\\wwwroot\\assets\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\StefanaNica\\Documents\\Project\\InvoiceProject\\InvoiceProject\\InvoiceProject\\wwwroot\\assets\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\StefanaNica\\Documents\\Project\\InvoiceProject\\InvoiceProject\\InvoiceProject\\wwwroot\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\StefanaNica\\Documents\\Project\\InvoiceProject\\InvoiceProject\\InvoiceProject\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\StefanaNica\\Documents\\Project\\InvoiceProject\\InvoiceProject\\InvoiceProject\\wwwroot\\scripts\\addEditInvoice.js",
+      "PackagePath": "staticwebassets\\scripts\\addEditInvoice.js"
+    },
+    {
+      "Id": "C:\\Users\\StefanaNica\\Documents\\Project\\InvoiceProject\\InvoiceProject\\InvoiceProject\\wwwroot\\scripts\\loadInvoices.js",
+      "PackagePath": "staticwebassets\\scripts\\loadInvoices.js"
+    },
+    {
+      "Id": "C:\\Users\\StefanaNica\\Documents\\Project\\InvoiceProject\\InvoiceProject\\InvoiceProject\\wwwroot\\styles\\style.css",
+      "PackagePath": "staticwebassets\\styles\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.InvoiceProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.InvoiceProject.props",
+      "PackagePath": "build\\InvoiceProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.InvoiceProject.props",
+      "PackagePath": "buildMultiTargeting\\InvoiceProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.InvoiceProject.props",
+      "PackagePath": "buildTransitive\\InvoiceProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

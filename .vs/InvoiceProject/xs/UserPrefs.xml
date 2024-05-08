@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{FEA79E25-A0DD-4F48-AE8E-5C7E6CD961FB}|https">
+  <MonoDevelop.Ide.ItemProperties.InvoiceProject PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InvoiceProject/Program.cs">
+    <Files>
+      <File FileName="InvoiceProject/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="InvoiceProject/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InvoiceProject" expanded="True">
+            <Node name="InvoiceProject" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
